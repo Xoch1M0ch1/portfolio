@@ -20,5 +20,4 @@ min_version = "0.53.0"
   homepage = "https://www.caicai.me/"
   repo = "https://github.com/hi-caicai/farbox-theme-Anatole"
 
-##update theme
-git submodule update --remote --merge
+
